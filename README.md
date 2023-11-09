@@ -30,7 +30,7 @@ s=u
 print("Swapped values are:",s,t)
 ```
 ## OUTPUT:
-![output](/swappinng.png)
+![swappinng](https://github.com/SETHUKKARASI3006/Swapping-two-values/assets/144979338/07d6e96d-8f5b-498a-ab98-a25605308185)
 
 
 
